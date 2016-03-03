@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaestionesdecy00rothgoog_0008.png"; bbox 0 0 2862 4668; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 610 1075 907 1406">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 610 1075 907 1406">
+     <span class='ocr_line' id='line_1_1' title="bbox 625 1075 900 1253; baseline -0.044 -35"><span class='ocrx_word' id='word_1_1' title='bbox 625 1075 900 1253; x_wconf 43' lang='lat' dir='ltr'>muman&amp;</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 610 1247 907 1406; baseline -0.013 -40"><span class='ocrx_word' id='word_1_2' title='bbox 610 1273 754 1366; x_wconf 69' lang='lat' dir='ltr'><strong>unte.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 764 1273 843 1406; x_wconf 65' lang='lat'>1⁹⁴²</span> <span class='ocrx_word' id='word_1_4' title='bbox 869 1247 907 1392; x_wconf 66' lang='grc' dir='ltr'>ἓξ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1436 4668">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1436 4668">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1436 4668; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 0 0 1436 4668; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
